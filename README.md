@@ -1,6 +1,6 @@
 # GraphPoem-DHSI
 
-This repo [[UNDER CONSTRUCTION] ontains computational analyses of and analytical-creative approaches to the 
+This repo [UNDER CONSTRUCTION] ontains computational analyses of and analytical-creative approaches to the 
 
 MARGENTO community-based interplatform events #GraphPoem 
 
