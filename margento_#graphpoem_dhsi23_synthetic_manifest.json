@@ -1,0 +1,9 @@
+{
+  "twitter_log": "margento_#graphpoem_dhsi23_synthetic_twitter_log.csv",
+  "jupyter_log": "margento_#graphpoem_dhsi23_synthetic_jupyter_log.csv",
+  "facebook_log": "margento_#graphpoem_dhsi23_synthetic_facebook_log.csv",
+  "poem_sequence": "margento_#graphpoem_dhsi23_poem_sequence.json",
+  "event_descriptors": "margento_#graphpoem_dhsi23_event_descriptors.json",
+  "beta_R1": "margento_#graphpoem_dhsi23_beta_R_1.npy",
+  "beta_R10": "margento_#graphpoem_dhsi23_beta_R_10.npy"
+}
